@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: green;
+    color: yellow;
+    
+}    
+
+header {
+    width: 100%;
+    text-align: center;
+}
+
+.imagen_principal img {
+    width: 100%;
+    height: 50%;
+    
+    margin: 0;
+    padding: 0;
+    margin-bottom: 5%;
+}
+
+img{
+    float: right;
+    margin-right: 15%;
+    
+}
+
+ p{
+    width: 45%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    
+ }
+.iconos{
+    margin: 0;
+    padding: 0;
+    background: blue;
+    color: yellow;
+}
+h2 {
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 60px;
+    
+}
+
+li{
+    
+    display: inline-block;
+    width: 33%;
+    align-items: center;
+    
+    
+}
+
+i{
+    margin-left:31%;
+    margin-bottom: none;
+}
+li p{
+    margin: 20%;
+    margin-top: 0%;
+}
+.gallery i {
+    padding: 0px;
+    margin: 0px;
+    display:inline-block;
+    width: 33%;
+    
+}
+
+footer {
+    width: 100%;
+}
+
+footer h5 {
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 30px;
+    margin: 10px 0;
+    background-color: blue;
+    height: 36px;
+}
